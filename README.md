@@ -1,6 +1,7 @@
 # landuse-classifier
 
 Land use classification from satellite images with sci-kit learn. Made as a part of CENG463 in AYBU.
+(This classifier is made as a part of this Kaggle competition)[https://www.kaggle.com/competitions/ayb-ceng463-machine-learning-project-fall-2022]
 
 
 - Navigate using the headers. For example in google colab you can jump to a line by clicking on the header in `contents` tab
